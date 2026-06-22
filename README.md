@@ -1,4 +1,4 @@
-# cybersecurity-risk-assessment-financial-system
+
 # Cybersecurity Risk Assessment – Financial System Security Incident
 
 ## Overview
